@@ -81,6 +81,6 @@ Looking for **AI Infrastructure, Platform or DevOps/SRE roles** where infrastruc
 
 - LinkedIn: [linkedin.com/in/sergiibezrukov](https://linkedin.com/in/sergiibezrukov)
 - Email: [sergiibezrukov@proton.me](mailto:sergiibezrukov@proton.me)
-- GitHub: [@serge-ai-infra](https://github.com/serge-ai-infra) · [@finedefinition](https://github.com/finedefinition)
+- GitHub: [@serge-ai-infra](https://github.com/serge-ai-infra)
 
 Languages: English, Ukrainian, Russian
